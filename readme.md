@@ -7,7 +7,7 @@
 El proyecto denominado "v", es un CRM  para la empresa X, el cual tiene como objetivo establecer el control de quejas y devoluciones de los clientas, para su solución pronta 
 ## ARQUITECTURA
 ***
-EL proyecto se desarrollará con la arquitectura Cliente-Servidor.
+EL proyecto se desarrollará con la arquitectura Cliente-Servidor, la cual consiste en
 ***
 ![Arquitectura](https://infimg.com/bimg/2019/02/diagrama-cliente-servidor.jpeg.webp)
 ***
@@ -23,11 +23,11 @@ EL proyecto se desarrollará con la arquitectura Cliente-Servidor.
 
 EL PROYECTO SE  DESARROLLARÁ CON LA METODOLOGÍA SCRUM, EN 3 SPRINTS
 
-- [  ] SPRINT1 : 
+- [ ] SPRINT1 : 
 
-[  ] SPRINT2: 
+- [ ] SPRINT2: 
  
- [  ] SPRIN3 : 
+- [ ] SPRIN3 : 
 ***
 
 ## EQUIPO DE TRABAJO
