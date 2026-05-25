@@ -15,7 +15,7 @@ EL proyecto se desarrollará con la arquitectura Cliente-Servidor, la cual consi
 
 - LENGUAJE DE PROGRAMACIÓN:
 - BASE DE DATOS:
-- CVS: 
+- SVC: 
 - FRAMEWORK:
 - IDE:
 ***
