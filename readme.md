@@ -21,9 +21,17 @@ EL proyecto se desarrollará con la arquitectura Cliente-Servidor.
 ***
 ## METODOLOGÍA
 
-SCRUM
+EL PROYECTO SE  DESARROLLARÁ CON LA METODOLOGÍA SCRUM, EN 3 SPRINTS
 
 [ ] SPRINT1 : 
 
- [ ] SPRINT2 : 
+ [ ] SPRINT2: 
+ 
  [ ] SPRIN3 : 
+***
+
+## EQUIPO DE TRABAJO
+- SM:
+- DESARROLALDOR1:
+- DESARROLALDOR2:
+ 
